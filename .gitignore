@@ -1,0 +1,12 @@
+.gradle/
+/local.properties
+/.idea/
+/.vscode/
+/build/
+app/build/
+*.iml
+.gradle
+**/build/
+**/.cxx/
+**/captures/
+**/kotlin-classes/
